@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Calculadora_2.c
- Author      : 
+ Author      : Edison Fracisco Uñog Valencia
  Version     :
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style

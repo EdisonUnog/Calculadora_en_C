@@ -1,8 +1,8 @@
 /*
- * FUNCIONES.c
+ *  FUNCIONES.c
  *
  *  Created on: 15 sep. 2021
- *      Author: ediso
+ *  Author: Edison Fracisco Uñog Valencia
  */
 #include <stdio.h>
 #include <stdlib.h>
